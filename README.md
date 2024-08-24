@@ -1,5 +1,3 @@
-### Hi-ya!!! 👋
-
 # I'm Lorne!
 
 ### ***Data Engineer*** | ***Fullstack Engineer*** | ***DevOps Engineer*** 
